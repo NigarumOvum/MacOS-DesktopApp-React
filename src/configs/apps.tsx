@@ -14,14 +14,21 @@ const apps: AppsData[] = [
     img: "img/icons/launchpad.png"
   },
   {
-    id: "bear",
-    title: "Bear",
+    id: "aboutme",
+    title: "About Me",
     desktop: true,
     show: true,
     width: 860,
     height: 500,
-    img: "img/icons/bear.png",
+    img: "img/icons/finder.png",
     content: <Bear />
+  },
+  {
+    id: "Brealy Portfolio",
+    title: "Brealy Portfolio",
+    desktop: false,
+    img: "img/icons/nein.png",
+    link: "https://brealy-padron-portfolio-react.vercel.app/"
   },
   {
     id: "safari",
@@ -64,14 +71,14 @@ const apps: AppsData[] = [
     title: "Mail",
     desktop: false,
     img: "img/icons/mail.png",
-    link: "mailto:renovamenzxh@gmail.com"
+    link: "mailto:neighbordevcr@gmail.com"
   },
   {
     id: "github",
     title: "Github",
     desktop: false,
     img: "img/icons/github.png",
-    link: "https://github.com/Renovamen/playground-macos"
+    link: "https://github.com/NigarumOvum"
   }
 ];
 
