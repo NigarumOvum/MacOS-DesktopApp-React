@@ -1,4 +1,3 @@
-import React from "react";
 import { useSelector } from "react-redux";
 import { useMotionValue } from "framer-motion";
 import apps from "../../configs/apps";

@@ -1,29 +1,9 @@
 # playground-macos
 
-My portfolio website simulating macOS's GUI: https://portfolio.zxh.io
-
 Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [Tailwind CSS](https://tailwindcss.com/) + [TypeScript](https://www.typescriptlang.org/).
 
 ![day](./public/screenshots/day.png)
 ![night](./public/screenshots/night.png)
-
-
-&nbsp;
-
-## Usage
-
-```bash
-yarn install
-
-# serve with hot reload, open http://localhost:3000 to view it in the browser
-yarn dev
-
-# build for production with minification to the `build` folder
-yarn build
-```
-
-
-&nbsp;
 
 ## Credits
 
@@ -36,6 +16,3 @@ yarn build
 
 &nbsp;
 
-## License
-
-[MIT](MIT)
