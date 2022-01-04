@@ -2,44 +2,56 @@ import { WebsitesData } from "../types";
 
 const websites: WebsitesData = {
   favorites: {
-    title: "SNS Links",
+    title: "Projects Links",
     sites: [
       {
-        id: "my-blog",
-        title: "Blog",
-        img: "https://zxh.io/img/avatar.jpg",
-        link: "https://zxh.io/",
+        id: "my-portfolio",
+        title: "Brealy Padron Portfolio",
+        img: "img/icons/neighbordevcr.png",
+        link: "https://brealy-padron-portfolio-react.vercel.app/",
         inner: true
       },
       {
-        id: "my-github",
-        title: "Github",
-        img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
+        id: "neighbordev-cr",
+        title: "NeighborDev CR",
+        img: "img/icons/neighbordevcr.png",
+        link: "https://neighbordevcr.com"
       },
       {
-        id: "my-linkedin",
-        title: "Linkedin",
-        img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
+        id: "tecnoelectro-comercio-online",
+        title: "Tecnoelectro Comercio Online",
+        img: "img/icons/tecnologo.png",
+        link: "https://tecnoelectrocomercioonline.com'"
       },
       {
-        id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
+        id: "skinthing-cr",
+        title: "It is a Skin Thing",
+        img: "img/icons/skinthing.png",
+        link: "https://skinthingcr.com'"
       },
       {
-        id: "my-facebook",
-        title: "Facebook",
-        img: "img/sites/facebook.svg",
-        link: "https://www.facebook.com/renovamen.zou"
+        id: "radion",
+        title: "RadiOn - Online Radio",
+        img: "img/icons/radion.png",
+        link: "https://radion-react.vercel.app/"
       },
       {
-        id: "my-email",
-        title: "Email",
+        id: "tarotly",
+        title: "Tarotly",
+        img: "img/icons/tarotly.png",
+        link: "https://tarotly-react.vercel.app/"
+      },
+      {
+        id: "NASA-API",
+        title: "NASA API",
+        img: "img/icons/nasa.png",
+        link: "https://nasa-app-api.vercel.app"
+      },
+      {
+        id: "tripin-cr",
+        title: "TripinCR",
         img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "https://travel-costa-rica-react.vercel.app/"
       }
     ]
   },
@@ -49,14 +61,8 @@ const websites: WebsitesData = {
       {
         id: "github",
         title: "Github",
-        img: "img/sites/github.svg",
+        img: "img/sites/github.png",
         link: "https://github.com/"
-      },
-      {
-        id: "zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/"
       },
       {
         id: "bilibili",
@@ -119,35 +125,10 @@ const websites: WebsitesData = {
         link: "https://app.astralapp.com/"
       },
       {
-        id: "gitee",
-        title: "Gitee",
-        // img: "https://gitee.com/static/images/logo-en.svg",
-        img: "img/sites/gitee.svg",
-        link: "https://gitee.com/"
-      },
-      {
-        id: "aideadline",
-        title: "AI Deadlines",
-        img: "https://aideadlin.es/static/img/favicon.png",
-        link: "https://aideadlin.es/",
-        inner: true
-      },
-      {
-        id: "nazo",
-        title: "Nazo",
-        link: "https://nazo.one-story.cn"
-      },
-      {
         id: "svgomg",
         title: "SVGOMG",
         img: "https://jakearchibald.github.io/svgomg/imgs/icon.png",
         link: "https://jakearchibald.github.io/svgomg/"
-      },
-      {
-        id: "oh-vue-icons",
-        title: "Vue Icons!",
-        img: "img/sites/oh-vue-icons.svg",
-        link: "https://oh-vue-icons.netlify.app/"
       },
       {
         id: "tiny-png",

@@ -1,7 +1,7 @@
 import { UserData } from "../types";
 
 const user: UserData = {
-  name: "Brealy Padrón",
+  name: "Brealy Padrón Rodriguez",
   avatar: "img/ui/avatar.jpg"
 };
 

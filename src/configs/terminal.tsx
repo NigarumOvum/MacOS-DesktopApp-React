@@ -14,13 +14,15 @@ const terminal: TerminalData[] = [
           <div className="py-1">
             <div>
               Hi! This is Brealy P, now an incoming Computer Science master's
-              student at Boston University and an algorithm engineer intern at
-              Kuaishou (Kwai). I'm also working as a research assistant at
-              Peking University.
+              student at UNED and a Full-Stack Developer.
             </div>
             <div className="mt-1">
-              Before that, I got my bachelor's degree in Software Engineering at
-              Tongji University.
+              I consider myself as a passionate computer science student, always
+              curious and excited about the new technology trends with a
+              relentless attention to details. With strong bias for action and
+              ability to operate independently, communication and organization
+              skills with an ability to thrive in a fast-paced production
+              deadline-driven environment.
             </div>
           </div>
         )
@@ -30,14 +32,13 @@ const terminal: TerminalData[] = [
         title: "interests.txt",
         type: "file",
         content:
-          "Machine Learning / Deep Learning / Continual Learning / Meta-Learning / Multi-modal Retrieval"
+          "Full-Stack Development / DevOps / Machine Learning / Ciber Security /Data Science"
       },
       {
         id: "about-who-cares",
         title: "who-cares.txt",
         type: "file",
-        content:
-          "I'm open to summer research opportunities for summer 2022 lol."
+        content: "I'm open to new projects."
       },
       {
         id: "about-contact",
@@ -49,45 +50,45 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:bfr131095@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                bfr131095@gmail.com
               </a>{" "}
               /{" "}
               <a
                 className="text-blue-300"
-                href="mailto:xiaohan.zou@foxmail.com"
+                href="mailto:bfr131095@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan.zou@foxmail.com
+                bfr131095@gmail.com
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/nigarumovum"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://github.com/Renovamen
+                https://github.com/nigarumovum
               </a>
             </li>
             <li>
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/bfpr131095/"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://www.linkedin.com/in/xiaohan-zou
+                https://www.linkedin.com/in/bfpr131095/
               </a>
             </li>
-            <li>
+            {/* <li>
               Blog:{" "}
               <a
                 className="text-blue-300"
@@ -97,8 +98,8 @@ const terminal: TerminalData[] = [
               >
                 https://zxh.io
               </a>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               知乎:{" "}
               <a
                 className="text-blue-300"
@@ -108,7 +109,7 @@ const terminal: TerminalData[] = [
               >
                 https://www.zhihu.com/people/chao-neng-gui-su
               </a>
-            </li>
+            </li> */}
           </ul>
         )
       }

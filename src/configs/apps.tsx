@@ -24,13 +24,6 @@ const apps: AppsData[] = [
     content: <Bear />
   },
   {
-    id: "Brealy Portfolio",
-    title: "Brealy Portfolio",
-    desktop: false,
-    img: "img/icons/nein.png",
-    link: "https://brealy-padron-portfolio-react.vercel.app/"
-  },
-  {
     id: "safari",
     title: "Safari",
     desktop: true,
@@ -50,6 +43,14 @@ const apps: AppsData[] = [
     content: <VSCode />
   },
   {
+    id: "terminal",
+    title: "Terminal",
+    desktop: true,
+    show: false,
+    img: "img/icons/terminal.png",
+    content: <Terminal />
+  },
+  {
     id: "facetime",
     title: "FaceTime",
     desktop: true,
@@ -59,19 +60,18 @@ const apps: AppsData[] = [
     content: <FaceTime />
   },
   {
-    id: "terminal",
-    title: "Terminal",
-    desktop: true,
-    show: false,
-    img: "img/icons/terminal.png",
-    content: <Terminal />
-  },
-  {
     id: "email",
     title: "Mail",
     desktop: false,
     img: "img/icons/mail.png",
     link: "mailto:neighbordevcr@gmail.com"
+  },
+  {
+    id: "Brealy Portfolio",
+    title: "Brealy Portfolio",
+    desktop: false,
+    img: "img/icons/nein.png",
+    link: "https://brealy-padron-portfolio-react.vercel.app/"
   },
   {
     id: "github",
