@@ -2,11 +2,14 @@
 
 ## Built with:
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
+![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
 ![redux](https://img.icons8.com/color/48/000000/redux.png)
 ![css3](https://img.icons8.com/color/48/000000/css3.png)
 
 ## Description:
-This site is inspired by macOS Big Sur and Catalina, developed using React, React Redux and Tailwind CSS, and hosted on Vercel.
+This site is inspired by macOS Big Sur and Catalina, developed using React JSX, Typescript, React Redux and Tailwind CSS, using craco as a configuration layer. 
+
+
 ## Deployed in: Vercel
 
 ### Credits
